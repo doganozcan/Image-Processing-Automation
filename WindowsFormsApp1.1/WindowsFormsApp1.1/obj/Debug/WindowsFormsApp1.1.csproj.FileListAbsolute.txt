@@ -1,0 +1,14 @@
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.1.exe.config
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.1.exe
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.1.pdb
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1._1.Form1.resources
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1._1.histEsitlemeGrafik.resources
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1._1.histogramGrafik.resources
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1._1.Properties.Resources.resources
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.csproj.GenerateResource.cache
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.exe.licenses
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.csproj.CoreCompileInputs.cache
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.exe
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.pdb
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1._1.RenkBul.resources
+C:\Users\Dogan\source\repos\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.csproj.AssemblyReference.cache
